@@ -1,7 +1,7 @@
 # terraform-yandex-dns
 
 ## EXAMPLE: This is the contents of your variables.tf file
-
+````
 locals {
   zones = [
     {
@@ -29,3 +29,4 @@ locals {
     },
   ]
 }
+````
